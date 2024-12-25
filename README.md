@@ -24,7 +24,7 @@ These are smart contracts I created to showcase my understanding of smart contra
 
 ### Try Smart Contracts
 
-To examine or deploy one of the contracts simply;
+To examine or deploy one of the contracts simply:
 
 1) Go to [remix]("https://remix.ethereum.org/")
 2) Paste the code from smart contract
